@@ -1,5 +1,5 @@
 {
-  "total_examples": 2,
+  "total_examples": 3,
   "examples": [
     {
       "date": "2026-09-03",
@@ -16,6 +16,14 @@
       "category": "arrays",
       "topic": "Flatten an arbitrarily nested array",
       "file": "javascript/arrays/flatten_nested_arrays.js"
+    },
+    {
+      "date": "2026-09-03",
+      "language": "java",
+      "difficulty": "intermediate",
+      "category": "algorithms",
+      "topic": "Merge two sorted linked lists",
+      "file": "java/algorithms/merge_two_sorted_lists.java"
     }
   ]
 }
