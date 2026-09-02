@@ -1,0 +1,13 @@
+{
+  "total_examples": 1,
+  "examples": [
+    {
+      "date": "2026-09-03",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "algorithms",
+      "topic": "Find the missing number in a sequence",
+      "file": "python/algorithms/find_missing_number.py"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Builds / compiled artifacts
+target/
+bin/
+obj/
+*.class
+*.o
+*.out
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
