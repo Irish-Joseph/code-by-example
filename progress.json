@@ -1,5 +1,5 @@
 {
-  "total_examples": 3,
+  "total_examples": 4,
   "examples": [
     {
       "date": "2026-09-03",
@@ -24,6 +24,14 @@
       "category": "algorithms",
       "topic": "Merge two sorted linked lists",
       "file": "java/algorithms/merge_two_sorted_lists.java"
+    },
+    {
+      "date": "2026-09-03",
+      "language": "sql",
+      "difficulty": "intermediate",
+      "category": "window-functions",
+      "topic": "Running totals with SUM() OVER",
+      "file": "sql/window-functions/running_totals.sql"
     }
   ]
 }
