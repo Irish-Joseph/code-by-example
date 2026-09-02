@@ -1,5 +1,5 @@
 {
-  "total_examples": 5,
+  "total_examples": 6,
   "examples": [
     {
       "date": "2026-09-03",
@@ -40,6 +40,14 @@
       "category": "ownership",
       "topic": "Count word frequencies with borrowing",
       "file": "rust/ownership/count_word_frequencies_borrowed.rs"
+    },
+    {
+      "date": "2026-09-03",
+      "language": "cpp",
+      "difficulty": "advanced",
+      "category": "data-structures",
+      "topic": "LRU cache (list + hash map)",
+      "file": "cpp/data-structures/lru_cache.cpp"
     }
   ]
 }
