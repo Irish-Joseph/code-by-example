@@ -1,5 +1,5 @@
 {
-  "total_examples": 4,
+  "total_examples": 5,
   "examples": [
     {
       "date": "2026-09-03",
@@ -32,6 +32,14 @@
       "category": "window-functions",
       "topic": "Running totals with SUM() OVER",
       "file": "sql/window-functions/running_totals.sql"
+    },
+    {
+      "date": "2026-09-03",
+      "language": "rust",
+      "difficulty": "intermediate",
+      "category": "ownership",
+      "topic": "Count word frequencies with borrowing",
+      "file": "rust/ownership/count_word_frequencies_borrowed.rs"
     }
   ]
 }
