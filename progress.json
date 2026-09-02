@@ -1,5 +1,5 @@
 {
-  "total_examples": 1,
+  "total_examples": 2,
   "examples": [
     {
       "date": "2026-09-03",
@@ -8,6 +8,14 @@
       "category": "algorithms",
       "topic": "Find the missing number in a sequence",
       "file": "python/algorithms/find_missing_number.py"
+    },
+    {
+      "date": "2026-09-03",
+      "language": "javascript",
+      "difficulty": "beginner",
+      "category": "arrays",
+      "topic": "Flatten an arbitrarily nested array",
+      "file": "javascript/arrays/flatten_nested_arrays.js"
     }
   ]
 }
