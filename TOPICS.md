@@ -10,3 +10,4 @@
 | 2026-09-03 | C++ | Advanced | Data structures | LRU cache (list + hash map) | cpp/data-structures/lru_cache.cpp |
 | 2026-09-04 | TypeScript | Beginner | Union types | Narrowing unions with type guards | typescript/unions/shape_type_guards.ts |
 | 2026-09-04 | Bash | Beginner | Utilities | Count duplicate lines in files | bash/utilities/count_duplicate_lines.sh |
+| 2026-09-04 | Python | Intermediate | Algorithms | Longest substring without repeating characters | python/algorithms/longest_substring_without_repeats.py |
