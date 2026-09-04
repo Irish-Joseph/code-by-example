@@ -6,7 +6,7 @@ Maintain a public GitHub repository containing small, useful, educational progra
 
 The repository is intended to help beginners and developers learn programming concepts through focused examples.
 
-Every day, the agent must create exactly **6 new educational code examples**.
+Every day, the agent must create exactly **12 new educational code examples**.
 
 Each example must:
 
@@ -21,9 +21,9 @@ Each example must:
 Daily target:
 
 ```text
-6 new educational examples
-6 commits
-6 successful pushes
+12 new educational examples
+12 commits
+12 successful pushes
 ```
 
 The goal is NOT to generate meaningless commits, duplicate programs, empty commits, or artificial Git activity.
@@ -34,8 +34,8 @@ The goal is NOT to generate meaningless commits, duplicate programs, empty commi
 
 The agent MUST follow these rules.
 
-1. Create a maximum of 6 new examples per calendar day.
-2. Never intentionally create more than 6 examples for the same day.
+1. Create a maximum of 12 new examples per calendar day.
+2. Never intentionally create more than 12 examples for the same day.
 3. Never create duplicate examples.
 4. Never overwrite an existing educational example.
 5. Never create empty commits.
@@ -48,7 +48,7 @@ The agent MUST follow these rules.
 12. One educational example = one Git commit.
 13. Push immediately after each successful commit.
 14. If some examples were already created today, create only the remaining amount.
-15. Stop immediately once today's total reaches 6.
+15. Stop immediately once today's total reaches 12.
 
 ---
 
@@ -177,7 +177,7 @@ The repository should gradually contain a broad variety of languages.
 
 # 5. Daily Language Variety
 
-Do not automatically create all 6 examples in the same language.
+Do not automatically create all 12 examples in the same language.
 
 Prefer diversity.
 
@@ -211,12 +211,12 @@ However, language variety must never be prioritized over educational quality.
 
 # 6. Difficulty Distribution
 
-For approximately 6 daily examples, prefer:
+For approximately 12 daily examples, prefer:
 
 ```text
-2 Beginner
-3 Intermediate
-1 Advanced
+4 Beginner
+6 Intermediate
+2 Advanced
 ```
 
 This is a guideline, not an absolute requirement.
@@ -639,28 +639,34 @@ At startup:
 Then calculate:
 
 ```text
-remaining = 6 - examples_already_completed_today
+remaining = 12 - examples_already_completed_today
 ```
 
 Rules:
 
 ```text
-0 completed → create 6
-1 completed → create 5
-2 completed → create 4
-3 completed → create 3
-4 completed → create 2
-5 completed → create 1
-6 completed → create 0 and STOP
+0 completed → create 12
+1 completed → create 11
+2 completed → create 10
+3 completed → create 9
+4 completed → create 8
+5 completed → create 7
+6 completed → create 6
+7 completed → create 5
+8 completed → create 4
+9 completed → create 3
+10 completed → create 2
+11 completed → create 1
+12 completed → create 0 and STOP
 ```
 
-If today's total is already 6:
+If today's total is already 12:
 
 ```text
 STOP IMMEDIATELY.
 ```
 
-Do not create a seventh example.
+Do not create a thirteenth example.
 
 ---
 
@@ -995,7 +1001,7 @@ its TOPICS.md entry
 its progress.json entry
 ```
 
-Do not create all 6 code examples and combine them into one commit.
+Do not create all 12 code examples and combine them into one commit.
 
 ---
 
@@ -1233,7 +1239,7 @@ Repeat
 ...
 
 ↓
-Reach 6 total examples for today
+Reach 12 total examples for today
 
 ↓
 Final verification
@@ -1381,11 +1387,11 @@ Categories: 40+
 
 Do not modify README statistics after every individual example.
 
-If updating statistics automatically, do so once after the sixth daily example.
+If updating statistics automatically, do so once after the twelfth daily example.
 
 README changes should not require an additional meaningless seventh commit.
 
-Include the daily README update with the sixth example's commit when appropriate.
+Include the daily README update with the twelfth example's commit when appropriate.
 
 ---
 
@@ -1412,7 +1418,7 @@ Every commit must represent genuine repository improvement.
 
 The agent must be safe to execute multiple times during the same day.
 
-Running the agent again must NOT automatically create another 6 examples.
+Running the agent again must NOT automatically create another 12 examples.
 
 Every execution must first determine the current daily state.
 
@@ -1421,13 +1427,13 @@ Example:
 Morning execution:
 
 ```text
-Created: 6
+Created: 12
 ```
 
 Evening execution:
 
 ```text
-Existing today: 6
+Existing today: 12
 Remaining: 0
 Action: STOP
 ```
@@ -1435,7 +1441,7 @@ Action: STOP
 Not:
 
 ```text
-Create another 6
+Create another 12
 ```
 
 ---
@@ -1490,9 +1496,9 @@ Never allow two agents to independently calculate:
 0 examples today
 ```
 
-and both create 6.
+and both create 12.
 
-That could produce 12 examples.
+That could produce 24 examples.
 
 ---
 
@@ -1626,7 +1632,7 @@ Do not rely exclusively on an in-memory counter.
 
 This prevents accidental overproduction after interruptions or partial restarts.
 
-If today's count reaches 6:
+If today's count reaches 12:
 
 ```text
 STOP.
@@ -1636,7 +1642,7 @@ STOP.
 
 # 44. Final Daily Verification
 
-After the sixth successful push:
+After the twelfth successful push:
 
 Run:
 
@@ -1657,7 +1663,7 @@ Also verify `progress.json`.
 Confirm:
 
 ```text
-Today's educational examples = 6
+Today's educational examples = 12
 ```
 
 Do not create another commit merely to report completion.
@@ -1673,8 +1679,8 @@ DAILY CODE LEARNING COMPLETE
 
 Date: 2026-09-03
 
-Target: 6
-Completed today: 6
+Target: 12
+Completed today: 12
 Remaining: 0
 
 Examples:
@@ -1709,8 +1715,8 @@ Examples:
    File: cpp/algorithms/merge_overlapping_intervals.cpp
    Validation: Passed
 
-Commits created: 6
-Successful pushes: 6
+Commits created: 12
+Successful pushes: 12
 Duplicate proposals rejected: 2
 Validation issues corrected: 1
 
@@ -1731,8 +1737,8 @@ DAILY CODE LEARNING PARTIALLY COMPLETE
 
 Date: 2026-09-03
 
-Completed: 4 / 6
-Remaining: 2
+Completed: 8 / 12
+Remaining: 4
 
 Stopped because:
 Git push authentication failed.
@@ -1745,7 +1751,7 @@ No additional commits were created after the push failure.
 Action required:
 Restore GitHub authentication and rerun the agent.
 
-The agent should resume from 4 / 6.
+The agent should resume from 8 / 12.
 ```
 
 ---
@@ -1766,7 +1772,7 @@ When rules conflict, use this priority:
 9. Maintain language variety
 ```
 
-Reaching 6 examples is NEVER more important than repository safety or quality.
+Reaching 12 examples is NEVER more important than repository safety or quality.
 
 ---
 
@@ -1820,13 +1826,13 @@ Stop and request user intervention only when genuinely necessary, such as:
 A successful day is NOT:
 
 ```text
-6 random commits.
+12 random commits.
 ```
 
 A successful day is:
 
 ```text
-6 unique
+12 unique
 +
 useful
 +
@@ -1845,7 +1851,7 @@ successfully pushed
 programming examples.
 ```
 
-After the sixth successful example and push:
+After the twelfth successful example and push:
 
 ```text
 STOP FOR THE DAY.
