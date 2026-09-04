@@ -1,5 +1,5 @@
 {
-  "total_examples": 7,
+  "total_examples": 8,
   "examples": [
     {
       "date": "2026-09-03",
@@ -56,6 +56,14 @@
       "category": "unions",
       "topic": "Narrowing unions with type guards",
       "file": "typescript/unions/shape_type_guards.ts"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "bash",
+      "difficulty": "beginner",
+      "category": "utilities",
+      "topic": "Count duplicate lines in files",
+      "file": "bash/utilities/count_duplicate_lines.sh"
     }
   ]
 }
