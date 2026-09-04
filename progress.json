@@ -1,5 +1,5 @@
 {
-  "total_examples": 11,
+  "total_examples": 12,
   "examples": [
     {
       "date": "2026-09-03",
@@ -88,6 +88,14 @@
       "category": "recursive-ctes",
       "topic": "Org chart tree traversal",
       "file": "sql/recursive-ctes/org_chart_tree_traversal.sql"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "rust",
+      "difficulty": "advanced",
+      "category": "iterators",
+      "topic": "Custom countdown iterator with adapters",
+      "file": "rust/iterators/custom_countdown_iterator.rs"
     }
   ]
 }
