@@ -1,5 +1,5 @@
 {
-  "total_examples": 6,
+  "total_examples": 7,
   "examples": [
     {
       "date": "2026-09-03",
@@ -48,6 +48,14 @@
       "category": "data-structures",
       "topic": "LRU cache (list + hash map)",
       "file": "cpp/data-structures/lru_cache.cpp"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "typescript",
+      "difficulty": "beginner",
+      "category": "unions",
+      "topic": "Narrowing unions with type guards",
+      "file": "typescript/unions/shape_type_guards.ts"
     }
   ]
 }
