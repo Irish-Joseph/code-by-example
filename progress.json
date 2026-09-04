@@ -1,5 +1,5 @@
 {
-  "total_examples": 17,
+  "total_examples": 18,
   "examples": [
     {
       "date": "2026-09-03",
@@ -136,6 +136,14 @@
       "category": "strings",
       "topic": "Reverse a string in place with pointers",
       "file": "c/strings/reverse_string_in_place.c"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "typescript",
+      "difficulty": "intermediate",
+      "category": "generics",
+      "topic": "Generics with constraints",
+      "file": "typescript/generics/generics_with_constraints.ts"
     }
   ]
 }

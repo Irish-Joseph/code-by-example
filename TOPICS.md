@@ -19,3 +19,4 @@
 | 2026-09-04 | SQL | Intermediate | Window functions | RANK vs DENSE_RANK vs ROW_NUMBER | sql/window-functions/rank_vs_dense_rank_vs_row_number.sql |
 | 2026-09-04 | Go | Beginner | Algorithms | Two Sum with a map | go/algorithms/two_sum.go |
 | 2026-09-04 | C | Beginner | Strings | Reverse a string in place with pointers | c/strings/reverse_string_in_place.c |
+| 2026-09-04 | TypeScript | Intermediate | Generics | Generics with constraints | typescript/generics/generics_with_constraints.ts |
