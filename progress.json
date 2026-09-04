@@ -1,5 +1,5 @@
 {
-  "total_examples": 13,
+  "total_examples": 14,
   "examples": [
     {
       "date": "2026-09-03",
@@ -104,6 +104,14 @@
       "category": "utilities",
       "topic": "Debounce with cancel and flush",
       "file": "javascript/utilities/debounce_with_cancellation.js"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "python",
+      "difficulty": "advanced",
+      "category": "decorators",
+      "topic": "Retry with exponential backoff and jitter",
+      "file": "python/decorators/retry_decorator_with_backoff.py"
     }
   ]
 }
