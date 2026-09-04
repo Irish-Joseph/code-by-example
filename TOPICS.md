@@ -14,3 +14,4 @@
 | 2026-09-04 | Go | Intermediate | Concurrency | Token bucket rate limiter with channels | go/concurrency/token_bucket_rate_limiter.go |
 | 2026-09-04 | SQL | Intermediate | Recursive CTEs | Org chart tree traversal | sql/recursive-ctes/org_chart_tree_traversal.sql |
 | 2026-09-04 | Rust | Advanced | Iterators | Custom countdown iterator with adapters | rust/iterators/custom_countdown_iterator.rs |
+| 2026-09-04 | JavaScript | Intermediate | Utilities | Debounce with cancel and flush | javascript/utilities/debounce_with_cancellation.js |
