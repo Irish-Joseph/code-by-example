@@ -16,3 +16,4 @@
 | 2026-09-04 | Rust | Advanced | Iterators | Custom countdown iterator with adapters | rust/iterators/custom_countdown_iterator.rs |
 | 2026-09-04 | JavaScript | Intermediate | Utilities | Debounce with cancel and flush | javascript/utilities/debounce_with_cancellation.js |
 | 2026-09-04 | Python | Advanced | Decorators | Retry with exponential backoff and jitter | python/decorators/retry_decorator_with_backoff.py |
+| 2026-09-04 | SQL | Intermediate | Window functions | RANK vs DENSE_RANK vs ROW_NUMBER | sql/window-functions/rank_vs_dense_rank_vs_row_number.sql |

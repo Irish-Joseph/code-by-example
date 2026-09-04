@@ -1,5 +1,5 @@
 {
-  "total_examples": 14,
+  "total_examples": 15,
   "examples": [
     {
       "date": "2026-09-03",
@@ -112,6 +112,14 @@
       "category": "decorators",
       "topic": "Retry with exponential backoff and jitter",
       "file": "python/decorators/retry_decorator_with_backoff.py"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "sql",
+      "difficulty": "intermediate",
+      "category": "window-functions",
+      "topic": "RANK vs DENSE_RANK vs ROW_NUMBER",
+      "file": "sql/window-functions/rank_vs_dense_rank_vs_row_number.sql"
     }
   ]
 }
