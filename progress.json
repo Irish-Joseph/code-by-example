@@ -1,5 +1,5 @@
 {
-  "total_examples": 16,
+  "total_examples": 17,
   "examples": [
     {
       "date": "2026-09-03",
@@ -128,6 +128,14 @@
       "category": "algorithms",
       "topic": "Two Sum with a map",
       "file": "go/algorithms/two_sum.go"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "c",
+      "difficulty": "beginner",
+      "category": "strings",
+      "topic": "Reverse a string in place with pointers",
+      "file": "c/strings/reverse_string_in_place.c"
     }
   ]
 }
