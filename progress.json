@@ -1,5 +1,5 @@
 {
-  "total_examples": 9,
+  "total_examples": 10,
   "examples": [
     {
       "date": "2026-09-03",
@@ -72,6 +72,14 @@
       "category": "algorithms",
       "topic": "Longest substring without repeating characters",
       "file": "python/algorithms/longest_substring_without_repeats.py"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "go",
+      "difficulty": "intermediate",
+      "category": "concurrency",
+      "topic": "Token bucket rate limiter with channels",
+      "file": "go/concurrency/token_bucket_rate_limiter.go"
     }
   ]
 }
