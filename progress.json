@@ -1,5 +1,5 @@
 {
-  "total_examples": 15,
+  "total_examples": 16,
   "examples": [
     {
       "date": "2026-09-03",
@@ -120,6 +120,14 @@
       "category": "window-functions",
       "topic": "RANK vs DENSE_RANK vs ROW_NUMBER",
       "file": "sql/window-functions/rank_vs_dense_rank_vs_row_number.sql"
+    },
+    {
+      "date": "2026-09-04",
+      "language": "go",
+      "difficulty": "beginner",
+      "category": "algorithms",
+      "topic": "Two Sum with a map",
+      "file": "go/algorithms/two_sum.go"
     }
   ]
 }
