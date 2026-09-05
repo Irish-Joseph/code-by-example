@@ -1,5 +1,5 @@
 {
-  "total_examples": 39,
+  "total_examples": 40,
   "examples": [
     {
       "date": "2026-09-03",
@@ -312,6 +312,14 @@
       "category": "algorithms",
       "topic": "STL algorithms combined with lambdas",
       "file": "cpp/algorithms/stl_algorithms_lambdas.cpp"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "bash",
+      "difficulty": "intermediate",
+      "category": "utilities",
+      "topic": "Log severity counts with awk",
+      "file": "bash/utilities/log_severity_summary.sh"
     }
   ]
 }

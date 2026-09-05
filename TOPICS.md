@@ -41,3 +41,4 @@
 | 2026-09-06 | TypeScript | Intermediate | Async | async/await: parallel vs sequential | typescript/async/async_await_parallel_vs_sequential.ts |
 | 2026-09-06 | Java | Intermediate | OOP | Inheritance and polymorphism | java/oop/polymorphic_shapes.java |
 | 2026-09-06 | C++ | Intermediate | STL | Algorithms combined with lambdas | cpp/algorithms/stl_algorithms_lambdas.cpp |
+| 2026-09-06 | Bash | Intermediate | Utilities | Log severity counts with awk | bash/utilities/log_severity_summary.sh |
