@@ -21,3 +21,4 @@
 | 2026-09-04 | C | Beginner | Strings | Reverse a string in place with pointers | c/strings/reverse_string_in_place.c |
 | 2026-09-04 | TypeScript | Intermediate | Generics | Generics with constraints | typescript/generics/generics_with_constraints.ts |
 | 2026-09-05 | Python | Beginner | Strings | Palindrome check and character frequency | python/strings/palindrome_and_char_frequency.py |
+| 2026-09-05 | Bash | Beginner | Utilities | Find the largest files in a directory | bash/utilities/find_largest_files.sh |

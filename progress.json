@@ -1,5 +1,5 @@
 {
-  "total_examples": 19,
+  "total_examples": 20,
   "examples": [
     {
       "date": "2026-09-03",
@@ -152,6 +152,14 @@
       "category": "strings",
       "topic": "Palindrome check and character frequency",
       "file": "python/strings/palindrome_and_char_frequency.py"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "bash",
+      "difficulty": "beginner",
+      "category": "utilities",
+      "topic": "Find the largest files in a directory",
+      "file": "bash/utilities/find_largest_files.sh"
     }
   ]
 }
