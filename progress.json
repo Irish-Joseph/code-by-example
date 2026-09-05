@@ -1,5 +1,5 @@
 {
-  "total_examples": 35,
+  "total_examples": 36,
   "examples": [
     {
       "date": "2026-09-03",
@@ -280,6 +280,14 @@
       "category": "strings",
       "topic": "String vs &str (owned vs borrowed text)",
       "file": "rust/strings/string_vs_str.rs"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "sql",
+      "difficulty": "intermediate",
+      "category": "joins",
+      "topic": "INNER, LEFT, RIGHT and anti-joins",
+      "file": "sql/joins/inner_left_right_and_anti_joins.sql"
     }
   ]
 }
