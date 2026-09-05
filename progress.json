@@ -1,5 +1,5 @@
 {
-  "total_examples": 36,
+  "total_examples": 37,
   "examples": [
     {
       "date": "2026-09-03",
@@ -288,6 +288,14 @@
       "category": "joins",
       "topic": "INNER, LEFT, RIGHT and anti-joins",
       "file": "sql/joins/inner_left_right_and_anti_joins.sql"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "typescript",
+      "difficulty": "intermediate",
+      "category": "async",
+      "topic": "async/await: parallel vs sequential",
+      "file": "typescript/async/async_await_parallel_vs_sequential.ts"
     }
   ]
 }

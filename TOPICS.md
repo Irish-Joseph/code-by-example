@@ -38,3 +38,4 @@
 | 2026-09-06 | C | Beginner | Basics | Structs, designated initializers, . vs -> | c/basics/person_structs.c |
 | 2026-09-06 | Rust | Intermediate | Strings | String vs &str (owned vs borrowed text) | rust/strings/string_vs_str.rs |
 | 2026-09-06 | SQL | Intermediate | Joins | INNER, LEFT, RIGHT and anti-joins | sql/joins/inner_left_right_and_anti_joins.sql |
+| 2026-09-06 | TypeScript | Intermediate | Async | async/await: parallel vs sequential | typescript/async/async_await_parallel_vs_sequential.ts |
