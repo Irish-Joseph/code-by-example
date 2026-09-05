@@ -1,5 +1,5 @@
 {
-  "total_examples": 28,
+  "total_examples": 29,
   "examples": [
     {
       "date": "2026-09-03",
@@ -224,6 +224,14 @@
       "category": "linq",
       "topic": "LINQ query vs method syntax",
       "file": "csharp/linq/linq_basics_query_and_method_syntax.cs"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "python",
+      "difficulty": "advanced",
+      "category": "generators",
+      "topic": "Lazy log-processing pipeline",
+      "file": "python/generators/log_pipeline_with_generators.py"
     }
   ]
 }
