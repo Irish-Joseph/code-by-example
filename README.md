@@ -13,8 +13,8 @@ Explore the language folders to start learning.
 
 ## Statistics
 
-Examples: 30
-Languages: 11
+Examples: 42
+Languages: 12
 
 ## Repository Layout
 

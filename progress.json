@@ -1,5 +1,5 @@
 {
-  "total_examples": 41,
+  "total_examples": 42,
   "examples": [
     {
       "date": "2026-09-03",
@@ -328,6 +328,14 @@
       "category": "blocks",
       "topic": "Blocks and Enumerable methods",
       "file": "ruby/blocks/blocks_and_enumerable.rb"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "csharp",
+      "difficulty": "advanced",
+      "category": "async",
+      "topic": "async/await with Task.WhenAll and cancellation",
+      "file": "csharp/async/async_await_task_when_all.cs"
     }
   ]
 }

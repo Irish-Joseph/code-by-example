@@ -43,3 +43,4 @@
 | 2026-09-06 | C++ | Intermediate | STL | Algorithms combined with lambdas | cpp/algorithms/stl_algorithms_lambdas.cpp |
 | 2026-09-06 | Bash | Intermediate | Utilities | Log severity counts with awk | bash/utilities/log_severity_summary.sh |
 | 2026-09-06 | Ruby | Intermediate | Blocks | Blocks and Enumerable methods | ruby/blocks/blocks_and_enumerable.rb |
+| 2026-09-06 | C# | Advanced | Async | async/await with Task.WhenAll and cancellation | csharp/async/async_await_task_when_all.cs |
