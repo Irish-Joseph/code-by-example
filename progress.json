@@ -1,5 +1,5 @@
 {
-  "total_examples": 29,
+  "total_examples": 30,
   "examples": [
     {
       "date": "2026-09-03",
@@ -232,6 +232,14 @@
       "category": "generators",
       "topic": "Lazy log-processing pipeline",
       "file": "python/generators/log_pipeline_with_generators.py"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "cpp",
+      "difficulty": "advanced",
+      "category": "raii",
+      "topic": "RAII and move semantics",
+      "file": "cpp/raii/raii_and_move.cpp"
     }
   ]
 }

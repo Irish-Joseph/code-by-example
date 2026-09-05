@@ -31,3 +31,4 @@
 | 2026-09-05 | Java | Intermediate | Streams | Group and collect with streams | java/streams/group_and_collect_with_streams.java |
 | 2026-09-05 | C# | Intermediate | LINQ | LINQ query vs method syntax | csharp/linq/linq_basics_query_and_method_syntax.cs |
 | 2026-09-05 | Python | Advanced | Generators | Lazy log-processing pipeline | python/generators/log_pipeline_with_generators.py |
+| 2026-09-05 | C++ | Advanced | RAII | RAII and move semantics | cpp/raii/raii_and_move.cpp |
