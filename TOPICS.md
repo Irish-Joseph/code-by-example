@@ -36,3 +36,4 @@
 | 2026-09-06 | JavaScript | Beginner | Objects | Destructuring with defaults and rest | javascript/objects/destructuring_patterns.js |
 | 2026-09-06 | Go | Beginner | Slices | Slice patterns (len/cap, append, copy, filter) | go/slices/slice_patterns.go |
 | 2026-09-06 | C | Beginner | Basics | Structs, designated initializers, . vs -> | c/basics/person_structs.c |
+| 2026-09-06 | Rust | Intermediate | Strings | String vs &str (owned vs borrowed text) | rust/strings/string_vs_str.rs |
