@@ -1,5 +1,5 @@
 {
-  "total_examples": 24,
+  "total_examples": 25,
   "examples": [
     {
       "date": "2026-09-03",
@@ -192,6 +192,14 @@
       "category": "aggregation",
       "topic": "Pivot rows into columns with conditional aggregation",
       "file": "sql/aggregation/pivot_with_conditional_aggregation.sql"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "rust",
+      "difficulty": "intermediate",
+      "category": "enums",
+      "topic": "Data-carrying enums with exhaustive match",
+      "file": "rust/enums/network_status_match.rs"
     }
   ]
 }
