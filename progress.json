@@ -1,5 +1,5 @@
 {
-  "total_examples": 32,
+  "total_examples": 33,
   "examples": [
     {
       "date": "2026-09-03",
@@ -256,6 +256,14 @@
       "category": "objects",
       "topic": "Destructuring with defaults and rest",
       "file": "javascript/objects/destructuring_patterns.js"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "go",
+      "difficulty": "beginner",
+      "category": "slices",
+      "topic": "Slice patterns (len/cap, append, copy, filter)",
+      "file": "go/slices/slice_patterns.go"
     }
   ]
 }
