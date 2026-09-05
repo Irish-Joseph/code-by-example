@@ -1,5 +1,5 @@
 {
-  "total_examples": 31,
+  "total_examples": 32,
   "examples": [
     {
       "date": "2026-09-03",
@@ -248,6 +248,14 @@
       "category": "files",
       "topic": "CSV processing with the csv module",
       "file": "python/files/process_csv_with_csv_module.py"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "javascript",
+      "difficulty": "beginner",
+      "category": "objects",
+      "topic": "Destructuring with defaults and rest",
+      "file": "javascript/objects/destructuring_patterns.js"
     }
   ]
 }

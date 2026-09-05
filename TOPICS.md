@@ -33,3 +33,4 @@
 | 2026-09-05 | Python | Advanced | Generators | Lazy log-processing pipeline | python/generators/log_pipeline_with_generators.py |
 | 2026-09-05 | C++ | Advanced | RAII | RAII and move semantics | cpp/raii/raii_and_move.cpp |
 | 2026-09-06 | Python | Beginner | Files | CSV processing with the csv module | python/files/process_csv_with_csv_module.py |
+| 2026-09-06 | JavaScript | Beginner | Objects | Destructuring with defaults and rest | javascript/objects/destructuring_patterns.js |
