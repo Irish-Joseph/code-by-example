@@ -1,5 +1,5 @@
 {
-  "total_examples": 40,
+  "total_examples": 41,
   "examples": [
     {
       "date": "2026-09-03",
@@ -320,6 +320,14 @@
       "category": "utilities",
       "topic": "Log severity counts with awk",
       "file": "bash/utilities/log_severity_summary.sh"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "ruby",
+      "difficulty": "intermediate",
+      "category": "blocks",
+      "topic": "Blocks and Enumerable methods",
+      "file": "ruby/blocks/blocks_and_enumerable.rb"
     }
   ]
 }
