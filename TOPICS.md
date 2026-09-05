@@ -27,3 +27,4 @@
 | 2026-09-05 | JavaScript | Intermediate | Arrays | Group objects by property | javascript/arrays/group_objects_by_property.js |
 | 2026-09-05 | SQL | Intermediate | Aggregation | Pivot rows into columns with conditional aggregation | sql/aggregation/pivot_with_conditional_aggregation.sql |
 | 2026-09-05 | Rust | Intermediate | Enums | Data-carrying enums with exhaustive match | rust/enums/network_status_match.rs |
+| 2026-09-05 | C | Intermediate | Pointers | Dynamic int array with realloc growth | c/pointers/dynamic_int_array.c |

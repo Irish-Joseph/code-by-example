@@ -1,5 +1,5 @@
 {
-  "total_examples": 25,
+  "total_examples": 26,
   "examples": [
     {
       "date": "2026-09-03",
@@ -200,6 +200,14 @@
       "category": "enums",
       "topic": "Data-carrying enums with exhaustive match",
       "file": "rust/enums/network_status_match.rs"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "c",
+      "difficulty": "intermediate",
+      "category": "pointers",
+      "topic": "Dynamic int array with realloc growth",
+      "file": "c/pointers/dynamic_int_array.c"
     }
   ]
 }
