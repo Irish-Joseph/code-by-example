@@ -1,5 +1,5 @@
 {
-  "total_examples": 20,
+  "total_examples": 21,
   "examples": [
     {
       "date": "2026-09-03",
@@ -160,6 +160,14 @@
       "category": "utilities",
       "topic": "Find the largest files in a directory",
       "file": "bash/utilities/find_largest_files.sh"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "typescript",
+      "difficulty": "beginner",
+      "category": "utility-types",
+      "topic": "Pick, Omit, Partial, Required, Record, Readonly",
+      "file": "typescript/utility-types/utility_types.ts"
     }
   ]
 }
