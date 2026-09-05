@@ -1,5 +1,5 @@
 {
-  "total_examples": 37,
+  "total_examples": 38,
   "examples": [
     {
       "date": "2026-09-03",
@@ -296,6 +296,14 @@
       "category": "async",
       "topic": "async/await: parallel vs sequential",
       "file": "typescript/async/async_await_parallel_vs_sequential.ts"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "java",
+      "difficulty": "intermediate",
+      "category": "oop",
+      "topic": "Inheritance and polymorphism",
+      "file": "java/oop/polymorphic_shapes.java"
     }
   ]
 }
