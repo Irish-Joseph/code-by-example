@@ -1,5 +1,5 @@
 {
-  "total_examples": 22,
+  "total_examples": 23,
   "examples": [
     {
       "date": "2026-09-03",
@@ -176,6 +176,14 @@
       "category": "data-structures",
       "topic": "LIFO stack with a slice",
       "file": "go/data-structures/stack.go"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "javascript",
+      "difficulty": "intermediate",
+      "category": "arrays",
+      "topic": "Group objects by property",
+      "file": "javascript/arrays/group_objects_by_property.js"
     }
   ]
 }
