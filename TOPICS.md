@@ -29,3 +29,4 @@
 | 2026-09-05 | Rust | Intermediate | Enums | Data-carrying enums with exhaustive match | rust/enums/network_status_match.rs |
 | 2026-09-05 | C | Intermediate | Pointers | Dynamic int array with realloc growth | c/pointers/dynamic_int_array.c |
 | 2026-09-05 | Java | Intermediate | Streams | Group and collect with streams | java/streams/group_and_collect_with_streams.java |
+| 2026-09-05 | C# | Intermediate | LINQ | LINQ query vs method syntax | csharp/linq/linq_basics_query_and_method_syntax.cs |

@@ -1,5 +1,5 @@
 {
-  "total_examples": 27,
+  "total_examples": 28,
   "examples": [
     {
       "date": "2026-09-03",
@@ -216,6 +216,14 @@
       "category": "streams",
       "topic": "Group and collect with streams",
       "file": "java/streams/group_and_collect_with_streams.java"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "csharp",
+      "difficulty": "intermediate",
+      "category": "linq",
+      "topic": "LINQ query vs method syntax",
+      "file": "csharp/linq/linq_basics_query_and_method_syntax.cs"
     }
   ]
 }
