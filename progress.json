@@ -1,5 +1,5 @@
 {
-  "total_examples": 30,
+  "total_examples": 31,
   "examples": [
     {
       "date": "2026-09-03",
@@ -240,6 +240,14 @@
       "category": "raii",
       "topic": "RAII and move semantics",
       "file": "cpp/raii/raii_and_move.cpp"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "files",
+      "topic": "CSV processing with the csv module",
+      "file": "python/files/process_csv_with_csv_module.py"
     }
   ]
 }
