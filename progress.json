@@ -1,5 +1,5 @@
 {
-  "total_examples": 18,
+  "total_examples": 19,
   "examples": [
     {
       "date": "2026-09-03",
@@ -144,6 +144,14 @@
       "category": "generics",
       "topic": "Generics with constraints",
       "file": "typescript/generics/generics_with_constraints.ts"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "strings",
+      "topic": "Palindrome check and character frequency",
+      "file": "python/strings/palindrome_and_char_frequency.py"
     }
   ]
 }
