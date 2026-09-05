@@ -1,5 +1,5 @@
 {
-  "total_examples": 21,
+  "total_examples": 22,
   "examples": [
     {
       "date": "2026-09-03",
@@ -168,6 +168,14 @@
       "category": "utility-types",
       "topic": "Pick, Omit, Partial, Required, Record, Readonly",
       "file": "typescript/utility-types/utility_types.ts"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "go",
+      "difficulty": "beginner",
+      "category": "data-structures",
+      "topic": "LIFO stack with a slice",
+      "file": "go/data-structures/stack.go"
     }
   ]
 }
