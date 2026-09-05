@@ -1,5 +1,5 @@
 {
-  "total_examples": 33,
+  "total_examples": 34,
   "examples": [
     {
       "date": "2026-09-03",
@@ -264,6 +264,14 @@
       "category": "slices",
       "topic": "Slice patterns (len/cap, append, copy, filter)",
       "file": "go/slices/slice_patterns.go"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "c",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "Structs, designated initializers, . vs ->",
+      "file": "c/basics/person_structs.c"
     }
   ]
 }

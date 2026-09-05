@@ -35,3 +35,4 @@
 | 2026-09-06 | Python | Beginner | Files | CSV processing with the csv module | python/files/process_csv_with_csv_module.py |
 | 2026-09-06 | JavaScript | Beginner | Objects | Destructuring with defaults and rest | javascript/objects/destructuring_patterns.js |
 | 2026-09-06 | Go | Beginner | Slices | Slice patterns (len/cap, append, copy, filter) | go/slices/slice_patterns.go |
+| 2026-09-06 | C | Beginner | Basics | Structs, designated initializers, . vs -> | c/basics/person_structs.c |
