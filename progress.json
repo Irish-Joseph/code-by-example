@@ -1,5 +1,5 @@
 {
-  "total_examples": 38,
+  "total_examples": 39,
   "examples": [
     {
       "date": "2026-09-03",
@@ -304,6 +304,14 @@
       "category": "oop",
       "topic": "Inheritance and polymorphism",
       "file": "java/oop/polymorphic_shapes.java"
+    },
+    {
+      "date": "2026-09-06",
+      "language": "cpp",
+      "difficulty": "intermediate",
+      "category": "algorithms",
+      "topic": "STL algorithms combined with lambdas",
+      "file": "cpp/algorithms/stl_algorithms_lambdas.cpp"
     }
   ]
 }
