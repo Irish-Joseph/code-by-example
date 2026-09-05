@@ -1,5 +1,5 @@
 {
-  "total_examples": 23,
+  "total_examples": 24,
   "examples": [
     {
       "date": "2026-09-03",
@@ -184,6 +184,14 @@
       "category": "arrays",
       "topic": "Group objects by property",
       "file": "javascript/arrays/group_objects_by_property.js"
+    },
+    {
+      "date": "2026-09-05",
+      "language": "sql",
+      "difficulty": "intermediate",
+      "category": "aggregation",
+      "topic": "Pivot rows into columns with conditional aggregation",
+      "file": "sql/aggregation/pivot_with_conditional_aggregation.sql"
     }
   ]
 }

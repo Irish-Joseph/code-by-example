@@ -25,3 +25,4 @@
 | 2026-09-05 | TypeScript | Beginner | Utility types | Pick, Omit, Partial, Required, Record, Readonly | typescript/utility-types/utility_types.ts |
 | 2026-09-05 | Go | Beginner | Data structures | LIFO stack with a slice | go/data-structures/stack.go |
 | 2026-09-05 | JavaScript | Intermediate | Arrays | Group objects by property | javascript/arrays/group_objects_by_property.js |
+| 2026-09-05 | SQL | Intermediate | Aggregation | Pivot rows into columns with conditional aggregation | sql/aggregation/pivot_with_conditional_aggregation.sql |
