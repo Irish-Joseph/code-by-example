@@ -1,5 +1,5 @@
 {
-  "total_examples": 64,
+  "total_examples": 65,
   "examples": [
     {
       "date": "2026-09-03",
@@ -512,6 +512,14 @@
       "category": "narrowing",
       "topic": "unknown, `in` operator and runtime validation",
       "file": "typescript/narrowing/narrowing_unknown_in_operator.ts"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "python",
+      "difficulty": "advanced",
+      "category": "context-managers",
+      "topic": "Custom context managers and ExitStack",
+      "file": "python/context-managers/custom_context_managers.py"
     }
   ]
 }
