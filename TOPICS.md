@@ -52,3 +52,4 @@
 | 2026-09-08 | TypeScript | Beginner | Interfaces | interface vs type: merging, extending, implements | typescript/interfaces/interface_vs_type.ts |
 | 2026-09-08 | Java | Beginner | Exceptions | Checked vs unchecked, try/catch/finally, custom exceptions | java/exceptions/exception_handling_basics.java |
 | 2026-09-08 | C++ | Intermediate | Templates | Function templates with deduction | cpp/templates/function_templates.cpp |
+| 2026-09-08 | Bash | Intermediate | Utilities | CLI flag parsing with getopts | bash/utilities/cli_flags_demo.sh |

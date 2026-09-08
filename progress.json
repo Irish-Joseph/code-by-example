@@ -1,5 +1,5 @@
 {
-  "total_examples": 50,
+  "total_examples": 51,
   "examples": [
     {
       "date": "2026-09-03",
@@ -400,6 +400,14 @@
       "category": "templates",
       "topic": "Function templates with deduction",
       "file": "cpp/templates/function_templates.cpp"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "bash",
+      "difficulty": "intermediate",
+      "category": "utilities",
+      "topic": "CLI flag parsing with getopts",
+      "file": "bash/utilities/cli_flags_demo.sh"
     }
   ]
 }
