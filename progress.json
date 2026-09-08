@@ -1,5 +1,5 @@
 {
-  "total_examples": 53,
+  "total_examples": 54,
   "examples": [
     {
       "date": "2026-09-03",
@@ -424,6 +424,14 @@
       "category": "basics",
       "topic": "Value vs reference types",
       "file": "csharp/basics/value_vs_reference_types.cs"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "strings",
+      "topic": "Regular expressions basics",
+      "file": "python/strings/regex_basics.py"
     }
   ]
 }
