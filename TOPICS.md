@@ -65,3 +65,4 @@
 | 2026-09-09 | Java | Intermediate | Collections | List, Map and Set idioms | java/collections/core_collections_list_map_set.java |
 | 2026-09-09 | C++ | Beginner | STL | std::vector basics | cpp/stl/vector_basics.cpp |
 | 2026-09-09 | C# | Intermediate | Patterns | Records and pattern matching | csharp/patterns/records_and_pattern_matching.cs |
+| 2026-09-09 | TypeScript | Intermediate | Narrowing | unknown, `in` operator and runtime validation | typescript/narrowing/narrowing_unknown_in_operator.ts |

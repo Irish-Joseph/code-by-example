@@ -1,5 +1,5 @@
 {
-  "total_examples": 63,
+  "total_examples": 64,
   "examples": [
     {
       "date": "2026-09-03",
@@ -504,6 +504,14 @@
       "category": "patterns",
       "topic": "Records and pattern matching",
       "file": "csharp/patterns/records_and_pattern_matching.cs"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "typescript",
+      "difficulty": "intermediate",
+      "category": "narrowing",
+      "topic": "unknown, `in` operator and runtime validation",
+      "file": "typescript/narrowing/narrowing_unknown_in_operator.ts"
     }
   ]
 }
