@@ -56,3 +56,4 @@
 | 2026-09-08 | Rust | Advanced | Traits | Traits, bounds and dyn dispatch | rust/traits/traits_and_bounds.rs |
 | 2026-09-08 | C# | Beginner | Basics | Value vs reference types | csharp/basics/value_vs_reference_types.cs |
 | 2026-09-08 | Python | Beginner | Strings | Regular expressions basics | python/strings/regex_basics.py |
+| 2026-09-09 | Python | Beginner | Collections | Set operations and membership testing | python/collections/set_operations.py |

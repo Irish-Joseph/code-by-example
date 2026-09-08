@@ -1,5 +1,5 @@
 {
-  "total_examples": 54,
+  "total_examples": 55,
   "examples": [
     {
       "date": "2026-09-03",
@@ -432,6 +432,14 @@
       "category": "strings",
       "topic": "Regular expressions basics",
       "file": "python/strings/regex_basics.py"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "collections",
+      "topic": "Set operations and membership testing",
+      "file": "python/collections/set_operations.py"
     }
   ]
 }
