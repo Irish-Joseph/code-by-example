@@ -1,5 +1,5 @@
 {
-  "total_examples": 52,
+  "total_examples": 53,
   "examples": [
     {
       "date": "2026-09-03",
@@ -416,6 +416,14 @@
       "category": "traits",
       "topic": "Traits, bounds and dyn dispatch",
       "file": "rust/traits/traits_and_bounds.rs"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "csharp",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "Value vs reference types",
+      "file": "csharp/basics/value_vs_reference_types.cs"
     }
   ]
 }

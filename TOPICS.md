@@ -54,3 +54,4 @@
 | 2026-09-08 | C++ | Intermediate | Templates | Function templates with deduction | cpp/templates/function_templates.cpp |
 | 2026-09-08 | Bash | Intermediate | Utilities | CLI flag parsing with getopts | bash/utilities/cli_flags_demo.sh |
 | 2026-09-08 | Rust | Advanced | Traits | Traits, bounds and dyn dispatch | rust/traits/traits_and_bounds.rs |
+| 2026-09-08 | C# | Beginner | Basics | Value vs reference types | csharp/basics/value_vs_reference_types.cs |
