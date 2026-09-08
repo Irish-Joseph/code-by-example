@@ -1,5 +1,5 @@
 {
-  "total_examples": 56,
+  "total_examples": 57,
   "examples": [
     {
       "date": "2026-09-03",
@@ -448,6 +448,14 @@
       "category": "basics",
       "topic": "Closures and private state",
       "file": "javascript/basics/closures.js"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "go",
+      "difficulty": "beginner",
+      "category": "errors",
+      "topic": "Errors as values: Is, As, %w chains",
+      "file": "go/errors/error_handling.go"
     }
   ]
 }

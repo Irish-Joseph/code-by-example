@@ -58,3 +58,4 @@
 | 2026-09-08 | Python | Beginner | Strings | Regular expressions basics | python/strings/regex_basics.py |
 | 2026-09-09 | Python | Beginner | Collections | Set operations and membership testing | python/collections/set_operations.py |
 | 2026-09-09 | JavaScript | Beginner | Basics | Closures and private state | javascript/basics/closures.js |
+| 2026-09-09 | Go | Beginner | Errors | Errors as values: Is, As, %w chains | go/errors/error_handling.go |
