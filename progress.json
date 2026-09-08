@@ -1,5 +1,5 @@
 {
-  "total_examples": 60,
+  "total_examples": 61,
   "examples": [
     {
       "date": "2026-09-03",
@@ -480,6 +480,14 @@
       "category": "basics",
       "topic": "Structs, methods and derives",
       "file": "rust/basics/structs_methods.rs"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "java",
+      "difficulty": "intermediate",
+      "category": "collections",
+      "topic": "List, Map and Set idioms",
+      "file": "java/collections/core_collections_list_map_set.java"
     }
   ]
 }
