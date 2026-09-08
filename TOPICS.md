@@ -49,3 +49,4 @@
 | 2026-09-08 | Go | Intermediate | Maps | Map idioms (comma-ok, counting, grouping, delete) | go/maps/map_patterns.go |
 | 2026-09-08 | SQL | Advanced | Window functions | Gaps & islands — missing dates | sql/window-functions/gaps_and_islands_missing_dates.sql |
 | 2026-09-08 | C | Intermediate | Arrays | 2D grid traversal with pointers | c/arrays/grid_traversal.c |
+| 2026-09-08 | TypeScript | Beginner | Interfaces | interface vs type: merging, extending, implements | typescript/interfaces/interface_vs_type.ts |

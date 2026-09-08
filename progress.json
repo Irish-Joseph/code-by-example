@@ -1,5 +1,5 @@
 {
-  "total_examples": 47,
+  "total_examples": 48,
   "examples": [
     {
       "date": "2026-09-03",
@@ -376,6 +376,14 @@
       "category": "arrays",
       "topic": "2D grid traversal with pointers",
       "file": "c/arrays/grid_traversal.c"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "typescript",
+      "difficulty": "beginner",
+      "category": "interfaces",
+      "topic": "interface vs type: merging, extending, implements",
+      "file": "typescript/interfaces/interface_vs_type.ts"
     }
   ]
 }
