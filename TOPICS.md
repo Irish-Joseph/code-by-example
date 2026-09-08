@@ -57,3 +57,4 @@
 | 2026-09-08 | C# | Beginner | Basics | Value vs reference types | csharp/basics/value_vs_reference_types.cs |
 | 2026-09-08 | Python | Beginner | Strings | Regular expressions basics | python/strings/regex_basics.py |
 | 2026-09-09 | Python | Beginner | Collections | Set operations and membership testing | python/collections/set_operations.py |
+| 2026-09-09 | JavaScript | Beginner | Basics | Closures and private state | javascript/basics/closures.js |

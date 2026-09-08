@@ -1,5 +1,5 @@
 {
-  "total_examples": 55,
+  "total_examples": 56,
   "examples": [
     {
       "date": "2026-09-03",
@@ -440,6 +440,14 @@
       "category": "collections",
       "topic": "Set operations and membership testing",
       "file": "python/collections/set_operations.py"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "javascript",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "Closures and private state",
+      "file": "javascript/basics/closures.js"
     }
   ]
 }
