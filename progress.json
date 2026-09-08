@@ -1,5 +1,5 @@
 {
-  "total_examples": 49,
+  "total_examples": 50,
   "examples": [
     {
       "date": "2026-09-03",
@@ -392,6 +392,14 @@
       "category": "exceptions",
       "topic": "Checked vs unchecked, try/catch/finally, custom exceptions",
       "file": "java/exceptions/exception_handling_basics.java"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "cpp",
+      "difficulty": "intermediate",
+      "category": "templates",
+      "topic": "Function templates with deduction",
+      "file": "cpp/templates/function_templates.cpp"
     }
   ]
 }
