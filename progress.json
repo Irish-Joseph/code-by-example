@@ -1,5 +1,5 @@
 {
-  "total_examples": 58,
+  "total_examples": 59,
   "examples": [
     {
       "date": "2026-09-03",
@@ -464,6 +464,14 @@
       "category": "utilities",
       "topic": "Sum, min, max and avg in one awk pass",
       "file": "bash/utilities/sum_numbers.sh"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "sql",
+      "difficulty": "beginner",
+      "category": "filters",
+      "topic": "WHERE with IN, BETWEEN, LIKE and NULL",
+      "file": "sql/filters/where_in_between_like_null.sql"
     }
   ]
 }

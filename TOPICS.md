@@ -60,3 +60,4 @@
 | 2026-09-09 | JavaScript | Beginner | Basics | Closures and private state | javascript/basics/closures.js |
 | 2026-09-09 | Go | Beginner | Errors | Errors as values: Is, As, %w chains | go/errors/error_handling.go |
 | 2026-09-09 | Bash | Beginner | Utilities | Sum, min, max and avg in one awk pass | bash/utilities/sum_numbers.sh |
+| 2026-09-09 | SQL | Beginner | Filters | WHERE with IN, BETWEEN, LIKE and NULL | sql/filters/where_in_between_like_null.sql |
