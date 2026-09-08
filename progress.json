@@ -1,5 +1,5 @@
 {
-  "total_examples": 44,
+  "total_examples": 45,
   "examples": [
     {
       "date": "2026-09-03",
@@ -352,6 +352,14 @@
       "category": "objects",
       "topic": "Deep copy: naive vs structuredClone vs manual",
       "file": "javascript/objects/deep_copy_patterns.js"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "go",
+      "difficulty": "intermediate",
+      "category": "maps",
+      "topic": "Map idioms (comma-ok, counting, grouping, delete)",
+      "file": "go/maps/map_patterns.go"
     }
   ]
 }
