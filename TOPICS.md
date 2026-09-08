@@ -59,3 +59,4 @@
 | 2026-09-09 | Python | Beginner | Collections | Set operations and membership testing | python/collections/set_operations.py |
 | 2026-09-09 | JavaScript | Beginner | Basics | Closures and private state | javascript/basics/closures.js |
 | 2026-09-09 | Go | Beginner | Errors | Errors as values: Is, As, %w chains | go/errors/error_handling.go |
+| 2026-09-09 | Bash | Beginner | Utilities | Sum, min, max and avg in one awk pass | bash/utilities/sum_numbers.sh |

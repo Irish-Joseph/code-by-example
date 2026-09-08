@@ -1,5 +1,5 @@
 {
-  "total_examples": 57,
+  "total_examples": 58,
   "examples": [
     {
       "date": "2026-09-03",
@@ -456,6 +456,14 @@
       "category": "errors",
       "topic": "Errors as values: Is, As, %w chains",
       "file": "go/errors/error_handling.go"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "bash",
+      "difficulty": "beginner",
+      "category": "utilities",
+      "topic": "Sum, min, max and avg in one awk pass",
+      "file": "bash/utilities/sum_numbers.sh"
     }
   ]
 }
