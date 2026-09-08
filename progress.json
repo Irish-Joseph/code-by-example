@@ -1,5 +1,5 @@
 {
-  "total_examples": 45,
+  "total_examples": 46,
   "examples": [
     {
       "date": "2026-09-03",
@@ -360,6 +360,14 @@
       "category": "maps",
       "topic": "Map idioms (comma-ok, counting, grouping, delete)",
       "file": "go/maps/map_patterns.go"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "sql",
+      "difficulty": "advanced",
+      "category": "window-functions",
+      "topic": "Gaps & islands — missing dates",
+      "file": "sql/window-functions/gaps_and_islands_missing_dates.sql"
     }
   ]
 }
