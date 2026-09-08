@@ -1,5 +1,5 @@
 {
-  "total_examples": 61,
+  "total_examples": 62,
   "examples": [
     {
       "date": "2026-09-03",
@@ -488,6 +488,14 @@
       "category": "collections",
       "topic": "List, Map and Set idioms",
       "file": "java/collections/core_collections_list_map_set.java"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "cpp",
+      "difficulty": "beginner",
+      "category": "stl",
+      "topic": "std::vector basics",
+      "file": "cpp/stl/vector_basics.cpp"
     }
   ]
 }

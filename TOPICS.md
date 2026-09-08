@@ -63,3 +63,4 @@
 | 2026-09-09 | SQL | Beginner | Filters | WHERE with IN, BETWEEN, LIKE and NULL | sql/filters/where_in_between_like_null.sql |
 | 2026-09-09 | Rust | Beginner | Basics | Structs, methods and derives | rust/basics/structs_methods.rs |
 | 2026-09-09 | Java | Intermediate | Collections | List, Map and Set idioms | java/collections/core_collections_list_map_set.java |
+| 2026-09-09 | C++ | Beginner | STL | std::vector basics | cpp/stl/vector_basics.cpp |
