@@ -1,5 +1,5 @@
 {
-  "total_examples": 51,
+  "total_examples": 52,
   "examples": [
     {
       "date": "2026-09-03",
@@ -408,6 +408,14 @@
       "category": "utilities",
       "topic": "CLI flag parsing with getopts",
       "file": "bash/utilities/cli_flags_demo.sh"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "rust",
+      "difficulty": "advanced",
+      "category": "traits",
+      "topic": "Traits, bounds and dyn dispatch",
+      "file": "rust/traits/traits_and_bounds.rs"
     }
   ]
 }
