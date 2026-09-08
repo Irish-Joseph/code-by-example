@@ -1,5 +1,5 @@
 {
-  "total_examples": 62,
+  "total_examples": 63,
   "examples": [
     {
       "date": "2026-09-03",
@@ -496,6 +496,14 @@
       "category": "stl",
       "topic": "std::vector basics",
       "file": "cpp/stl/vector_basics.cpp"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "csharp",
+      "difficulty": "intermediate",
+      "category": "patterns",
+      "topic": "Records and pattern matching",
+      "file": "csharp/patterns/records_and_pattern_matching.cs"
     }
   ]
 }
