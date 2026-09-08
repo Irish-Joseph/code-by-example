@@ -1,5 +1,5 @@
 {
-  "total_examples": 59,
+  "total_examples": 60,
   "examples": [
     {
       "date": "2026-09-03",
@@ -472,6 +472,14 @@
       "category": "filters",
       "topic": "WHERE with IN, BETWEEN, LIKE and NULL",
       "file": "sql/filters/where_in_between_like_null.sql"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "rust",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "Structs, methods and derives",
+      "file": "rust/basics/structs_methods.rs"
     }
   ]
 }
