@@ -45,3 +45,4 @@
 | 2026-09-06 | Ruby | Intermediate | Blocks | Blocks and Enumerable methods | ruby/blocks/blocks_and_enumerable.rb |
 | 2026-09-06 | C# | Advanced | Async | async/await with Task.WhenAll and cancellation | csharp/async/async_await_task_when_all.cs |
 | 2026-09-08 | Python | Intermediate | Algorithms | Binary search (iterative) with insertion point | python/algorithms/binary_search_iterative.py |
+| 2026-09-08 | JavaScript | Intermediate | Objects | Deep copy: naive vs structuredClone vs manual | javascript/objects/deep_copy_patterns.js |
