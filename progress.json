@@ -1,5 +1,5 @@
 {
-  "total_examples": 46,
+  "total_examples": 47,
   "examples": [
     {
       "date": "2026-09-03",
@@ -368,6 +368,14 @@
       "category": "window-functions",
       "topic": "Gaps & islands — missing dates",
       "file": "sql/window-functions/gaps_and_islands_missing_dates.sql"
+    },
+    {
+      "date": "2026-09-08",
+      "language": "c",
+      "difficulty": "intermediate",
+      "category": "arrays",
+      "topic": "2D grid traversal with pointers",
+      "file": "c/arrays/grid_traversal.c"
     }
   ]
 }

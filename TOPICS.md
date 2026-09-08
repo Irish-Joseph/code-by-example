@@ -48,3 +48,4 @@
 | 2026-09-08 | JavaScript | Intermediate | Objects | Deep copy: naive vs structuredClone vs manual | javascript/objects/deep_copy_patterns.js |
 | 2026-09-08 | Go | Intermediate | Maps | Map idioms (comma-ok, counting, grouping, delete) | go/maps/map_patterns.go |
 | 2026-09-08 | SQL | Advanced | Window functions | Gaps & islands — missing dates | sql/window-functions/gaps_and_islands_missing_dates.sql |
+| 2026-09-08 | C | Intermediate | Arrays | 2D grid traversal with pointers | c/arrays/grid_traversal.c |
