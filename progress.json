@@ -1,5 +1,5 @@
 {
-  "total_examples": 65,
+  "total_examples": 66,
   "examples": [
     {
       "date": "2026-09-03",
@@ -520,6 +520,14 @@
       "category": "context-managers",
       "topic": "Custom context managers and ExitStack",
       "file": "python/context-managers/custom_context_managers.py"
+    },
+    {
+      "date": "2026-09-09",
+      "language": "c",
+      "difficulty": "advanced",
+      "category": "data-structures",
+      "topic": "Singly linked list",
+      "file": "c/data-structures/linked_list.c"
     }
   ]
 }
