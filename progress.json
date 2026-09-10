@@ -1,5 +1,5 @@
 {
-  "total_examples": 69,
+  "total_examples": 70,
   "examples": [
     {
       "date": "2026-09-03",
@@ -552,6 +552,14 @@
       "category": "subqueries",
       "topic": "Scalar, IN, EXISTS, correlated subqueries and the NOT IN NULL trap",
       "file": "sql/subqueries/exists_in_and_correlated.sql"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "rust",
+      "difficulty": "intermediate",
+      "category": "error-handling",
+      "topic": "Result, the ? operator and custom error enums",
+      "file": "rust/error-handling/result_and_error_propagation.rs"
     }
   ]
 }
