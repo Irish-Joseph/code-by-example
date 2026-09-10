@@ -13,8 +13,9 @@ Explore the language folders to start learning.
 
 ## Statistics
 
-Examples: 66
+Examples: 78
 Languages: 12
+Categories: 44
 
 ## Repository Layout
 

@@ -1,5 +1,5 @@
 {
-  "total_examples": 77,
+  "total_examples": 78,
   "examples": [
     {
       "date": "2026-09-03",
@@ -616,6 +616,14 @@
       "category": "collections",
       "topic": "List, Dictionary and HashSet idioms",
       "file": "csharp/collections/list_dictionary_hashset.cs"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "rust",
+      "difficulty": "advanced",
+      "category": "concurrency",
+      "topic": "Threads, mpsc channels, Arc<Mutex> and atomics",
+      "file": "rust/concurrency/threads_and_channels.rs"
     }
   ]
 }
