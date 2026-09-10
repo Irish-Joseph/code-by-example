@@ -1,5 +1,5 @@
 {
-  "total_examples": 70,
+  "total_examples": 71,
   "examples": [
     {
       "date": "2026-09-03",
@@ -560,6 +560,14 @@
       "category": "error-handling",
       "topic": "Result, the ? operator and custom error enums",
       "file": "rust/error-handling/result_and_error_propagation.rs"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "bash",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "Parameter expansion: defaults, substrings, trimming, replacement, case",
+      "file": "bash/basics/string_manipulation.sh"
     }
   ]
 }

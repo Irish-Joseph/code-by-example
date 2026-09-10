@@ -72,3 +72,4 @@
 | 2026-09-10 | JavaScript | Intermediate | Basics | How `this` binds: call site, bind/call/apply, arrows | javascript/basics/this_and_binding.js |
 | 2026-09-10 | SQL | Intermediate | Subqueries | Scalar, IN, EXISTS, correlated subqueries and the NOT IN NULL trap | sql/subqueries/exists_in_and_correlated.sql |
 | 2026-09-10 | Rust | Intermediate | Error handling | Result, the ? operator and custom error enums | rust/error-handling/result_and_error_propagation.rs |
+| 2026-09-10 | Bash | Beginner | Basics | Parameter expansion: defaults, substrings, trimming, replacement, case | bash/basics/string_manipulation.sh |
