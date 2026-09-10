@@ -366,7 +366,7 @@
       "language": "sql",
       "difficulty": "advanced",
       "category": "window-functions",
-      "topic": "Gaps & islands \u2014 missing dates",
+      "topic": "Gaps & islands — missing dates",
       "file": "sql/window-functions/gaps_and_islands_missing_dates.sql"
     },
     {
