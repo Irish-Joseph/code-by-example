@@ -1,5 +1,5 @@
 {
-  "total_examples": 68,
+  "total_examples": 69,
   "examples": [
     {
       "date": "2026-09-03",
@@ -544,6 +544,14 @@
       "category": "basics",
       "topic": "How `this` binds: call site, bind/call/apply, arrows",
       "file": "javascript/basics/this_and_binding.js"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "sql",
+      "difficulty": "intermediate",
+      "category": "subqueries",
+      "topic": "Scalar, IN, EXISTS, correlated subqueries and the NOT IN NULL trap",
+      "file": "sql/subqueries/exists_in_and_correlated.sql"
     }
   ]
 }

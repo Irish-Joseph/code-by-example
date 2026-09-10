@@ -70,3 +70,4 @@
 | 2026-09-09 | C | Advanced | Data structures | Singly linked list | c/data-structures/linked_list.c |
 | 2026-09-10 | Python | Beginner | Basics | List, dict, set comprehensions and generator expressions | python/basics/comprehensions.py |
 | 2026-09-10 | JavaScript | Intermediate | Basics | How `this` binds: call site, bind/call/apply, arrows | javascript/basics/this_and_binding.js |
+| 2026-09-10 | SQL | Intermediate | Subqueries | Scalar, IN, EXISTS, correlated subqueries and the NOT IN NULL trap | sql/subqueries/exists_in_and_correlated.sql |
