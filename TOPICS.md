@@ -68,3 +68,4 @@
 | 2026-09-09 | TypeScript | Intermediate | Narrowing | unknown, `in` operator and runtime validation | typescript/narrowing/narrowing_unknown_in_operator.ts |
 | 2026-09-09 | Python | Advanced | Context managers | Custom context managers and ExitStack | python/context-managers/custom_context_managers.py |
 | 2026-09-09 | C | Advanced | Data structures | Singly linked list | c/data-structures/linked_list.c |
+| 2026-09-10 | Python | Beginner | Basics | List, dict, set comprehensions and generator expressions | python/basics/comprehensions.py |

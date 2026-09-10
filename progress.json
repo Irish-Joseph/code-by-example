@@ -1,5 +1,5 @@
 {
-  "total_examples": 66,
+  "total_examples": 67,
   "examples": [
     {
       "date": "2026-09-03",
@@ -366,7 +366,7 @@
       "language": "sql",
       "difficulty": "advanced",
       "category": "window-functions",
-      "topic": "Gaps & islands — missing dates",
+      "topic": "Gaps & islands \u2014 missing dates",
       "file": "sql/window-functions/gaps_and_islands_missing_dates.sql"
     },
     {
@@ -528,6 +528,14 @@
       "category": "data-structures",
       "topic": "Singly linked list",
       "file": "c/data-structures/linked_list.c"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "python",
+      "difficulty": "beginner",
+      "category": "basics",
+      "topic": "List, dict, set comprehensions and generator expressions",
+      "file": "python/basics/comprehensions.py"
     }
   ]
 }
