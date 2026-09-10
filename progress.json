@@ -1,5 +1,5 @@
 {
-  "total_examples": 73,
+  "total_examples": 74,
   "examples": [
     {
       "date": "2026-09-03",
@@ -584,6 +584,14 @@
       "category": "advanced-types",
       "topic": "Mapped types, key remapping, conditional types and infer",
       "file": "typescript/advanced-types/mapped_and_conditional_types.ts"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "go",
+      "difficulty": "intermediate",
+      "category": "interfaces",
+      "topic": "Implicit interfaces, composition, type switches and the nil-interface trap",
+      "file": "go/interfaces/interfaces_and_type_switch.go"
     }
   ]
 }

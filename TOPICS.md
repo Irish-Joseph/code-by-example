@@ -75,3 +75,4 @@
 | 2026-09-10 | Bash | Beginner | Basics | Parameter expansion: defaults, substrings, trimming, replacement, case | bash/basics/string_manipulation.sh |
 | 2026-09-10 | Python | Intermediate | OOP | Dunder methods: repr, eq/hash, ordering, containers, operators | python/oop/dunder_methods.py |
 | 2026-09-10 | TypeScript | Advanced | Advanced types | Mapped types, key remapping, conditional types and infer | typescript/advanced-types/mapped_and_conditional_types.ts |
+| 2026-09-10 | Go | Intermediate | Interfaces | Implicit interfaces, composition, type switches and the nil-interface trap | go/interfaces/interfaces_and_type_switch.go |
