@@ -69,3 +69,4 @@
 | 2026-09-09 | Python | Advanced | Context managers | Custom context managers and ExitStack | python/context-managers/custom_context_managers.py |
 | 2026-09-09 | C | Advanced | Data structures | Singly linked list | c/data-structures/linked_list.c |
 | 2026-09-10 | Python | Beginner | Basics | List, dict, set comprehensions and generator expressions | python/basics/comprehensions.py |
+| 2026-09-10 | JavaScript | Intermediate | Basics | How `this` binds: call site, bind/call/apply, arrows | javascript/basics/this_and_binding.js |

@@ -1,5 +1,5 @@
 {
-  "total_examples": 67,
+  "total_examples": 68,
   "examples": [
     {
       "date": "2026-09-03",
@@ -536,6 +536,14 @@
       "category": "basics",
       "topic": "List, dict, set comprehensions and generator expressions",
       "file": "python/basics/comprehensions.py"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "javascript",
+      "difficulty": "intermediate",
+      "category": "basics",
+      "topic": "How `this` binds: call site, bind/call/apply, arrows",
+      "file": "javascript/basics/this_and_binding.js"
     }
   ]
 }
