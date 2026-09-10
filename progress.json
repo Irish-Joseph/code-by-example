@@ -1,5 +1,5 @@
 {
-  "total_examples": 74,
+  "total_examples": 75,
   "examples": [
     {
       "date": "2026-09-03",
@@ -592,6 +592,14 @@
       "category": "interfaces",
       "topic": "Implicit interfaces, composition, type switches and the nil-interface trap",
       "file": "go/interfaces/interfaces_and_type_switch.go"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "c",
+      "difficulty": "intermediate",
+      "category": "strings",
+      "topic": "Tokenizing with strtok, strtok_r and a strcspn splitter",
+      "file": "c/strings/tokenize_with_strtok.c"
     }
   ]
 }
