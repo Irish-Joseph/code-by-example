@@ -74,3 +74,4 @@
 | 2026-09-10 | Rust | Intermediate | Error handling | Result, the ? operator and custom error enums | rust/error-handling/result_and_error_propagation.rs |
 | 2026-09-10 | Bash | Beginner | Basics | Parameter expansion: defaults, substrings, trimming, replacement, case | bash/basics/string_manipulation.sh |
 | 2026-09-10 | Python | Intermediate | OOP | Dunder methods: repr, eq/hash, ordering, containers, operators | python/oop/dunder_methods.py |
+| 2026-09-10 | TypeScript | Advanced | Advanced types | Mapped types, key remapping, conditional types and infer | typescript/advanced-types/mapped_and_conditional_types.ts |

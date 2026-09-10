@@ -1,5 +1,5 @@
 {
-  "total_examples": 72,
+  "total_examples": 73,
   "examples": [
     {
       "date": "2026-09-03",
@@ -576,6 +576,14 @@
       "category": "oop",
       "topic": "Dunder methods: repr, eq/hash, ordering, containers, operators",
       "file": "python/oop/dunder_methods.py"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "typescript",
+      "difficulty": "advanced",
+      "category": "advanced-types",
+      "topic": "Mapped types, key remapping, conditional types and infer",
+      "file": "typescript/advanced-types/mapped_and_conditional_types.ts"
     }
   ]
 }
