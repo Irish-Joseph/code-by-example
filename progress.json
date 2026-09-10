@@ -1,5 +1,5 @@
 {
-  "total_examples": 76,
+  "total_examples": 77,
   "examples": [
     {
       "date": "2026-09-03",
@@ -608,6 +608,14 @@
       "category": "generics",
       "topic": "Generic methods, bounded types and PECS wildcards",
       "file": "java/generics/generic_methods_and_wildcards.java"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "csharp",
+      "difficulty": "beginner",
+      "category": "collections",
+      "topic": "List, Dictionary and HashSet idioms",
+      "file": "csharp/collections/list_dictionary_hashset.cs"
     }
   ]
 }

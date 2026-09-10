@@ -78,3 +78,4 @@
 | 2026-09-10 | Go | Intermediate | Interfaces | Implicit interfaces, composition, type switches and the nil-interface trap | go/interfaces/interfaces_and_type_switch.go |
 | 2026-09-10 | C | Intermediate | Strings | Tokenizing with strtok, strtok_r and a strcspn splitter | c/strings/tokenize_with_strtok.c |
 | 2026-09-10 | Java | Intermediate | Generics | Generic methods, bounded types and PECS wildcards | java/generics/generic_methods_and_wildcards.java |
+| 2026-09-10 | C# | Beginner | Collections | List, Dictionary and HashSet idioms | csharp/collections/list_dictionary_hashset.cs |
