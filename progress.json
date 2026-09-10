@@ -1,5 +1,5 @@
 {
-  "total_examples": 75,
+  "total_examples": 76,
   "examples": [
     {
       "date": "2026-09-03",
@@ -600,6 +600,14 @@
       "category": "strings",
       "topic": "Tokenizing with strtok, strtok_r and a strcspn splitter",
       "file": "c/strings/tokenize_with_strtok.c"
+    },
+    {
+      "date": "2026-09-10",
+      "language": "java",
+      "difficulty": "intermediate",
+      "category": "generics",
+      "topic": "Generic methods, bounded types and PECS wildcards",
+      "file": "java/generics/generic_methods_and_wildcards.java"
     }
   ]
 }
